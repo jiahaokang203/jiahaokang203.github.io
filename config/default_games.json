@@ -1,0 +1,10 @@
+﻿{
+  "games": [
+    {"id": "nz_future", "name": "逆战: 未来", "exe_path": "", "config_path": "", "actions": []},
+    {"id": "delta_force", "name": "三角洲行动", "exe_path": "", "config_path": "", "actions": []},
+    {"id": "genshin", "name": "原神", "exe_path": "", "config_path": "", "actions": []},
+    {"id": "wuthering_waves", "name": "鸣潮", "exe_path": "", "config_path": "", "actions": []},
+    {"id": "hsr", "name": "崩坏星穹铁道", "exe_path": "", "config_path": "", "actions": []},
+    {"id": "snowbreak", "name": "尘白禁区", "exe_path": "", "config_path": "", "actions": []}
+  ]
+}

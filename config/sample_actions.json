@@ -1,0 +1,17 @@
+﻿{
+  "actions": [
+    {"type": "wait", "seconds": 8},
+    {"type": "key", "key": "enter"},
+    {"type": "hotkey", "keys": ["alt", "tab"]},
+    {"type": "click", "x": 960, "y": 540},
+    {
+      "type": "image_click",
+      "template": "E:/文档/New project/assets/sample_template.png",
+      "confidence": 0.85,
+      "timeout": 10,
+      "interval": 0.5,
+      "offset_x": 0,
+      "offset_y": 0
+    }
+  ]
+}
